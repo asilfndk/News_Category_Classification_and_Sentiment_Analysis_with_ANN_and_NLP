@@ -1,4 +1,4 @@
-## 1. Çalışmanın Tanımı ve Amacı, Literatür Bilgisi
+## Çalışmanın Tanımı ve Amacı, Literatür Bilgisi
 
 #### Haber Sınıflandırma
 
