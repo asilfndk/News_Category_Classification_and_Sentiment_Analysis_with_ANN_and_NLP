@@ -8,14 +8,14 @@ This study involves the use of Artificial Neural Networks (ANNs), a machine lear
 
 --> Purpose of the Study
 
-
-News Classification Using Artificial Neural Networks:
+# News Classification Using Artificial Neural Networks:
 The primary goal is to classify news articles into different categories based on the dataset used for training. This leverages Artificial Neural Networks (ANNs) to automatically analyze and categorize news articles.
 
 Predicting News Categories:
 After training the ANN model using a news category dataset, this trained model was then employed to predict the categories of another news dataset. This step involves applying the trained model to new, unseen data in order to evaluate its performance and generalize its ability to accurately classify news articles.
 
 --> Literature Review
+
 Previous Approaches to News Classification:
 Previous studies or literature that used various methods (ANN, NLP techniques) for news classification were reviewed. When considering the strengths and limitations of these approaches, it was observed that the performance and training outcomes of the ANN model used in our study were lower compared to other methods.
 
