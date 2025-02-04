@@ -7,21 +7,28 @@
 This study involves the use of Artificial Neural Networks (ANNs), a machine learning model inspired by the human brain, to categorize news articles into different categories. It includes training an ANN model on a dataset of news articles that are already categorized into specific classes or topics. Subsequently, this trained model is used to classify the categories of another dataset of news articles.
 
 --> Purpose of the Study
-	1.	News Classification Using Artificial Neural Networks
+
+
+News Classification Using Artificial Neural Networks:
 The primary goal is to classify news articles into different categories based on the dataset used for training. This leverages Artificial Neural Networks (ANNs) to automatically analyze and categorize news articles.
-	2.	Predicting News Categories
+
+Predicting News Categories:
 After training the ANN model using a news category dataset, this trained model was then employed to predict the categories of another news dataset. This step involves applying the trained model to new, unseen data in order to evaluate its performance and generalize its ability to accurately classify news articles.
 
 --> Literature Review
-	1.	Previous Approaches to News Classification
+Previous Approaches to News Classification:
 Previous studies or literature that used various methods (ANN, NLP techniques) for news classification were reviewed. When considering the strengths and limitations of these approaches, it was observed that the performance and training outcomes of the ANN model used in our study were lower compared to other methods.
-	2.	Feature Representation
+
+Feature Representation:
 Earlier research employed different techniques to represent text data, such as word embeddings (Word2Vec, GloVe), TF-IDF (Term Frequency–Inverse Document Frequency), or more complex representations (BERT, GPT models).
-	3.	Application of Artificial Neural Networks in News Classification
+
+Application of Artificial Neural Networks in News Classification:
 Literature demonstrating the effectiveness of ANNs specifically for news classification tasks was compared. Again, when evaluating strengths and limitations of similar approaches, our ANN model’s performance and training results were lower than those of other methods.
-	4.	Challenges and Solutions in News Classification
+
+Challenges and Solutions in News Classification:
 Due to the structure of the various datasets used, the training of the ANN model yielded very different outcomes. By trial and error, I selected and formed both the most suitable dataset and the most appropriate model to achieve the best results. Despite obtaining high validation scores multiple times, the classification results were often quite inaccurate. Therefore, among the options, I utilized the model and dataset that yielded the most accurate results.
-	5.	Evaluation Metrics
+
+Evaluation Metrics:
 To measure the performance of my ANN model in sentiment analysis (in the context of classifying news), I plotted various evaluation metrics commonly used in classification tasks, including the confusion matrix, training and validation loss, training and validation accuracy, precision, recall, F1 score, and ROC curves.
 
 #### Sentiment Analysis
@@ -36,13 +43,17 @@ Sentiment Analysis Using Artificial Neural Networks
 The goal is to classify news comments into different categories (sentiments) based on the dataset used for training. This leverages Artificial Neural Networks (ANNs) to automatically analyze news comments.
 
 --> Literature Review
-	1.	Neural Networks in Sentiment Analysis
+
+Neural Networks in Sentiment Analysis:
 Various studies in Natural Language Processing (NLP) employ neural networks for text classification tasks. NLP and ANN techniques have been used for tasks such as sentiment analysis, document classification, and topic modeling.
-	2.	Feature Representation
+
+Feature Representation:
 Previous research has employed different techniques to represent text data, including word embeddings (Word2Vec, GloVe), TF-IDF (Term Frequency–Inverse Document Frequency), or more complex representations (BERT, GPT models).
-	3.	Evaluation Metrics
+
+Evaluation Metrics:
 To measure the performance of my ANN model in news classification, I plotted several evaluation metrics commonly used in classification tasks, including the confusion matrix, training and validation loss, training and validation accuracy, precision, recall, F1 score, and ROC curves.
-	4.	Challenges and Solutions in Sentiment Analysis
+
+Challenges and Solutions in Sentiment Analysis:
 The structure of many of the datasets used led to very different outcomes in training the ANN model. By trial and error, I selected and created both the most suitable dataset and the model to achieve the most accurate results. Despite obtaining high validation scores multiple times, the analysis results were often very inaccurate. Even though the number of comments was low, I used the comments from news sites that provided me with the most accurate results.
 
 
@@ -80,6 +91,7 @@ Değerlendirme Metrikleri: ANN modelimin duygu analizindeki performansını öl�
 Çalışma, haber yorumlarının analizini farklı kategorilere ayırmak için insan beyninden ilham alan Yapay Sinir Ağlarının kullanımını içerir. Belirli sınıflara veya konulara kategorize (pozitif-negatif-nötr) edilmiş haber yorumlarını içeren bir veri kümesi kullanarak bir ANN modelinin eğitimini kapsar. Daha sonra, bu eğitilmiş model, haber yorumlarından oluşan başka bir veri kümesinin kategorilerini (yani duyguları: pozitif-negatif-nötr) tahmin etmek için kullanılır.
 
 --> Çalışmanın Amacı:
+
 Yapay Sinir Ağlarını Kullanarak Duygu Analizi: Haber yorumlarını eğitim için kullanılan veri kümesine göre farklı kategorilere (duygulara) sınıflandırmak için yapay sinir ağlarının kullanılmasıdır. Bu, haber yorumlarını otomatik olarak analiz etmek için Yapay Sinir Ağları’ndan (ANN) yararlanılmıştır.
 
 --> Literatür Bilgisi:
