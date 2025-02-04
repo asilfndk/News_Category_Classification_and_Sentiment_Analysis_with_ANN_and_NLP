@@ -1,17 +1,17 @@
-## Definition and Purpose of the Study, Literature Review
+# Definition and Purpose of the Study, Literature Review
 
-#### News Classification
+## News Classification
 
---> Definition of the Study
+#### --> Definition of the Study
 
 This study involves the use of Artificial Neural Networks (ANNs), a machine learning model inspired by the human brain, to categorize news articles into different categories. It includes training an ANN model on a dataset of news articles that are already categorized into specific classes or topics. Subsequently, this trained model is used to classify the categories of another dataset of news articles.
 
---> Purpose of the Study
+#### --> Purpose of the Study
 
-# News Classification Using Artificial Neural Networks:
+###### News Classification Using Artificial Neural Networks
 The primary goal is to classify news articles into different categories based on the dataset used for training. This leverages Artificial Neural Networks (ANNs) to automatically analyze and categorize news articles.
 
-Predicting News Categories:
+###### Predicting News Categories
 After training the ANN model using a news category dataset, this trained model was then employed to predict the categories of another news dataset. This step involves applying the trained model to new, unseen data in order to evaluate its performance and generalize its ability to accurately classify news articles.
 
 --> Literature Review
